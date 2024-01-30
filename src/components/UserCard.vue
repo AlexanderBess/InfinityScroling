@@ -21,7 +21,6 @@ defineProps({
 	width: -webkit-fill-available;
 	gap: 10px;
 	padding: 15px;
-
 	background-color: rgba(104, 117, 134, 0.623);
 	border-radius: 12px;
 
